@@ -1,22 +1,21 @@
 {
-  "name": "ng-csv",
-  "version": "0.3.6",
+  "name": "csv4web",
+  "version": "1.0.0",
   "main": "build/ng-csv.min.js",
   "description": "Simple directive that turns arrays and objects into downloadable CSV files",
   "repository": {
     "type": "git",
-    "url": "git@github.com:asafdav/ng-csv.git"
+    "url": "git@github.com:ashahzeb/ng-csv.git"
   },
   "keywords": [
     "angular",
     "angularjs",
     "csv"
   ],
-  "homepage": "https://github.com/asafdav/ng-csv",
+  "homepage": "https://github.com/ashahzeb/ng-csv",
   "author": {
-    "name": "Asaf David",
-    "email": "asafdav@gmail.com",
-    "url": "http://about.me/asafdavid"
+    "name": "Ali Shahzeb",
+    "email": "ali.shahzeb2@gmail.com"
   },
   "dependencies": {},
   "devDependencies": {
@@ -57,7 +56,7 @@
   },
   "autoupdate": {
     "source": "git",
-    "target": "https://github.com/asafdav/ng-csv.git",
+    "target": "https://github.com/ashahzeb/ng-csv.git",
     "basePath": "",
     "files": [
       "build/ng-csv.min.js",
