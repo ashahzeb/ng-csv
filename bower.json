@@ -1,6 +1,6 @@
 {
-  "name": "ng-csv",
-  "version": "0.3.6",
+  "name": "csv4web",
+  "version": "1.0.1",
   "main": "build/ng-csv.min.js",
   "dependencies": {
     "angular": "~1",
@@ -9,5 +9,23 @@
   "devDependencies": {
     "angular-mocks": "~1",
     "angular-scenario": "~1"
-  }
+  },
+  "homepage": "https://github.com/ashahzeb/ng-csv",
+  "authors": [
+    "Ali Shahzeb <ali@megaparticle.com>"
+  ],
+  "description": "Simple directive that turns arrays and objects into downloadable CSV files",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "csv"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
